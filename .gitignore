@@ -1,3 +1,7 @@
+.vscode
+.idea 
+*.psd 
+
 # Logs
 logs
 *.log
